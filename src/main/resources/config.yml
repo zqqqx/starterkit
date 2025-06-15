@@ -1,0 +1,14 @@
+kitItems: []
+
+messages:
+  no_permission: "§cKeine Rechte."
+  only_players: "§cNur Spieler können ein Starterkit setzen."
+  kit_saved: "§aStarterkit gespeichert!"
+  player_not_found: "§cSpieler nicht gefunden."
+  no_kit_set: "§cKein Starterkit gesetzt."
+  starterkit_given_sender: "§aStarterkit an %player% gegeben."
+  starterkit_received: "§aDu hast dein Starterkit erhalten!"
+  usage_no_args: "Nutze: /starterkit set | give <Spieler>"
+  usage_give_args: "§cNutze: /starterkit give <Spieler>"
+  only_players_with_args: "Dieser Befehl kann nur von Spielern mit Argumenten verwendet werden."
+  unknown_subcommand: "Unbekannter Unterbefehl."

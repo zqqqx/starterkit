@@ -1,0 +1,21 @@
+name: StarterKit
+version: 1.0
+main: dev.peterkanonenrohr.starterKit.StarterKit   # Hier den vollständigen Pfad zu deiner Hauptklasse anpassen
+api-version: 1.21
+
+description: StarterKit Plugin für Minecraft
+authors:
+  - OPGAMING
+
+commands:
+  starterkit:
+    description: Starterkit verwalten
+    usage: /starterkit set|give <player>
+
+permissions:
+  starterkit.admin:
+    description: Kann Starterkit setzen und geben
+    default: op
+  starterkit.use:
+    description: Erhält Starterkit beim Join
+    default: true
