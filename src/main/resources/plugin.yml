@@ -1,11 +1,11 @@
 name: StarterKit
 version: 1.0
-main: dev.peterkanonenrohr.starterKit.StarterKit   # Hier den vollständigen Pfad zu deiner Hauptklasse anpassen
+main: dev.peterkanonenrohr.starterKit.StarterKit
 api-version: 1.21
 
 description: StarterKit Plugin für Minecraft
 authors:
-  - OPGAMING
+  - PeterKanonenrohr
 
 commands:
   starterkit:
